@@ -1,3 +1,5 @@
+# removed all but ubuntu 22 and macOS
+
 # 0.12.6.x
 
 - Setup of Github action automation for Linux/MacOS builds

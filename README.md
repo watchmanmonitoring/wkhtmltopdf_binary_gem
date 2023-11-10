@@ -33,14 +33,6 @@ Debian/Ubuntu
 
     dpkg -x wkhtmltox_0.12.5-1.trusty_amd64.deb .
 
-CentOS
-
-    rpm2cpio wkhtmltox-0.12.5-1.centos7.x86_64.rpm | cpio -idmv
-
-Archlinux/manjaro
-
-    tar -xf wkhtmltox-0.12.6-1.archlinux.x86_64.tar.xz
-
 macOS
 
     xar -xf wkhtmltox-0.12.5-1.macos-cocoa.pkg
